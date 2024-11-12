@@ -21,8 +21,8 @@ const Home = () => {
   ];
 
   return (
-    <div className='container'>
-      <section className='d-flex justify-content-between align-items-center'>
+    <div className='container   gap-5'>
+      <section className='d-flex justify-content-between flex-col md-flex-row align-items-center'>
         <div>
           <h2 className='text-primary fs-1 fw-bold'>Hero Title</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, labore fugit rem ducimus dignissimos repellat ipsum aliquam maiores sequi doloribus sit cupiditate harum enim explicabo autem consectetur vitae! Ea, id.</p>
