@@ -7,8 +7,8 @@ const Profile = () => {
         <div className="card-body">
           <h5 className="card-title">My-Profile</h5>
           <div className="row">
-            <div className="col col-3 bg-secondary">
-              <img className="img-fluid object-fit-cover " src="https://picsum.photos/200/300" alt="" />
+            <div className="col col-3">
+              <img className="img-fluid object-fit-cover border rounded" src="https://picsum.photos/200/300" alt="" />
             </div>
             <div className="col col-9 bg primary">
               <ul className="list-group list-group-flush">
